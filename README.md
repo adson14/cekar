@@ -17,3 +17,6 @@ Algumas tecnologias utilizadas foram:
 Segue uma imagem da arquitetura:
 
 ![Arquitetura](./arquitetura.jpg?raw=true "Arquitetura centelho")
+
+Para acessar o projeto: 
+https://www.cekar.com.br/
